@@ -4,9 +4,20 @@ Hello Professor Gideon Wang
 This is my thesis. Please give me good marks
 On a cold dark winter night.
 
-cd thesis\
+Literature Review
+
+Manager Wang is the best house keeper in the world
+
+create thesis folder in desktop
+create thesis file
+in cmd cd thesis\
+git innit
 git add thesis.txt
 git commit -m "introduction"
 git log
 git status
 git diff
+git add thesis.txt
+git commit -m "Continue Introduction"
+git log
+git checkout -b litrev
