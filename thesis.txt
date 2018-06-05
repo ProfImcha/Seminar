@@ -2,3 +2,11 @@ Introduction
 
 Hello Professor Gideon Wang
 This is my thesis. Please give me good marks
+On a cold dark winter night.
+
+cd thesis\
+git add thesis.txt
+git commit -m "introduction"
+git log
+git status
+git diff
