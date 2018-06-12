@@ -21,3 +21,7 @@ git add thesis.txt
 git commit -m "Continue Introduction"
 git log
 git checkout -b litrev
+git add .
+git status
+git commit -m "Add literature review"
+git branch
